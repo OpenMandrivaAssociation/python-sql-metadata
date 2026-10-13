@@ -1,6 +1,6 @@
 Name:		python-sql-metadata
 Version:	3.0.1
-Release:	1
+Release:	2
 Summary:	Uses sqlglot to parse SQL queries and extract metadata
 License:	MIT
 Group:		Development/Python
